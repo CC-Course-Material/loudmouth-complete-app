@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.13",
@@ -21,7 +22,7 @@
     "@parcel/transformer-raw": "^2.0.0-nightly.576",
     "autoprefixer": "^9.8.6",
     "parcel": "^2.0.0-nightly.574",
-    "postcss": "^8.2.4",
+    "postcss": "^8.2.5",
     "postcss-modules": "^4.0.0"
   }
 }
