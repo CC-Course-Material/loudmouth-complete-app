@@ -1,0 +1,27 @@
+{
+  "name": "loudmouth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-react": "^7.12.13",
+    "@parcel/config-default": "^2.0.0-nightly.576",
+    "@parcel/transformer-raw": "^2.0.0-nightly.576",
+    "autoprefixer": "^9.8.6",
+    "parcel": "^2.0.0-nightly.574",
+    "postcss": "^8.2.4",
+    "postcss-modules": "^4.0.0"
+  }
+}
